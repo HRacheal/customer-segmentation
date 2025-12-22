@@ -76,5 +76,4 @@ K-Means performed marginally better, producing slightly more compact and well-se
 - Trade-offs between centroid-based and hierarchical clustering
 - Visualization techniques improve interpretability of high-dimensional data
 
-## Author
-**Hoziyana Rachel**
+
